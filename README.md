@@ -78,7 +78,7 @@ I specialize in building scalable cloud-native systems with a strong focus on:
 
 ---
 
-## 🔥 Featured Projects (to include in pin section)
+## 🔥 Featured Projects 
 
 ### **Kubernetes Production Setup – AWS EKS**
 - Terraform IaC  
@@ -114,7 +114,6 @@ I specialize in building scalable cloud-native systems with a strong focus on:
 - **LinkedIn:** https://linkedin.com/in/riyad-abdul-aziz-67b13  
 - **Email:** riyadabdulazeez@gmail.com  
 - **Location:** Kerala, India  
-- **YouTube (Opsidon):** You can add once ready  
 
 ---
 
