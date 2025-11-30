@@ -116,8 +116,8 @@ I enjoy creating AI-powered DevOps tools and automating complex infrastructure w
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryurulz&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryurulz&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=ryurulz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=ryurulz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
